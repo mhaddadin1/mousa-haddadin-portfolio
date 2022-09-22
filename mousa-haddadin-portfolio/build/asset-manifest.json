@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.d00f5ed5.css",
-    "main.js": "/static/js/main.17654d45.js",
-    "static/js/787.8725b486.chunk.js": "/static/js/787.8725b486.chunk.js",
+    "main.css": "/static/css/main.65b618c4.css",
+    "main.js": "/static/js/main.3b4cbd5c.js",
+    "static/js/787.e9a426ff.chunk.js": "/static/js/787.e9a426ff.chunk.js",
     "static/media/SqlLogo.png": "/static/media/SqlLogo.85fb38d6773862e917f4.png",
     "static/media/MongoDBLogo.png": "/static/media/MongoDBLogo.1df44ece8cf851cecf69.png",
+    "static/media/logo192.png": "/static/media/logo192.eba6d8f440e85ca19b60.png",
     "static/media/NodeJSLogo.png": "/static/media/NodeJSLogo.aabc0115471d1e8b2d6e.png",
     "static/media/ReactLogo.png": "/static/media/ReactLogo.37940586dd863909ffca.png",
     "static/media/TailwindLogo.png": "/static/media/TailwindLogo.36b2728bf0d14b7b7576.png",
     "static/media/ReduxLogo.png": "/static/media/ReduxLogo.296b9306ae3e4de348c6.png",
     "static/media/JsLogo.png": "/static/media/JsLogo.db393457bf6303d846d6.png",
     "index.html": "/index.html",
-    "main.d00f5ed5.css.map": "/static/css/main.d00f5ed5.css.map",
-    "main.17654d45.js.map": "/static/js/main.17654d45.js.map",
-    "787.8725b486.chunk.js.map": "/static/js/787.8725b486.chunk.js.map"
+    "main.65b618c4.css.map": "/static/css/main.65b618c4.css.map",
+    "main.3b4cbd5c.js.map": "/static/js/main.3b4cbd5c.js.map",
+    "787.e9a426ff.chunk.js.map": "/static/js/787.e9a426ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d00f5ed5.css",
-    "static/js/main.17654d45.js"
+    "static/css/main.65b618c4.css",
+    "static/js/main.3b4cbd5c.js"
   ]
 }
