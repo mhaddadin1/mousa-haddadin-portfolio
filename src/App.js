@@ -5,7 +5,11 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route exact path="/portfolio" element={<Home />}></Route>
+        <Route
+          exact
+          path="/mousa-haddadin-portfolio"
+          element={<Home />}
+        ></Route>
       </Routes>
     </BrowserRouter>
   );
